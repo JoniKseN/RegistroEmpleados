@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroEmpleados.AppMovil", "RegistroEmpleados.AppMovil\RegistroEmpleados.AppMovil.csproj", "{475DBC27-D5FD-490F-8118-0089655F0ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroEmpleados.Modelos", "RegistroEmpleados.Modelos\RegistroEmpleados.Modelos.csproj", "{A57D3ADE-8112-4C22-83C9-C815DAE8C392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475DBC27-D5FD-490F-8118-0089655F0ADA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A57D3ADE-8112-4C22-83C9-C815DAE8C392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57D3ADE-8112-4C22-83C9-C815DAE8C392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57D3ADE-8112-4C22-83C9-C815DAE8C392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57D3ADE-8112-4C22-83C9-C815DAE8C392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
